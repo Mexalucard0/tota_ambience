@@ -2,7 +2,7 @@ Citizen.CreateThread(function()
     while true 
     	do
 		
-		SetWeatherTypePersist("FOGGY")
+	SetWeatherTypePersist("FOGGY")
         SetWeatherTypeNowPersist("FOGGY")
         SetWeatherTypeNow("FOGGY")
         SetOverrideWeather("FOGGY")
